@@ -1,4 +1,4 @@
-module example.com/turtles
+module example.com/todos
 
 go 1.27
 
